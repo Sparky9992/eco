@@ -22,7 +22,7 @@ export default class Command extends BaseCommand {
         let rin = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: rin }, MessageType.image, {quoted:M.WAMessage,
             mimetype: Mimetype.jpeg,
-            caption: `Hey pal!🍃I'm Issa, a learner/student & an upcoming developer in the future.
+            caption: `Hey dude!🍃I'm Ishaan, a learner/student & an upcoming developer in the future.
             
 📫𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥;
 Wa.me/918839439805
